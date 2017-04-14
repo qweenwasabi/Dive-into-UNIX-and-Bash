@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# 1.2 to print out the console log with a newline echo [-n] <string>
+
+
+echo -n "Hello Loser!"
+
+
