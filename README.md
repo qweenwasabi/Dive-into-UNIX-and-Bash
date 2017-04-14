@@ -1,7 +1,7 @@
 ---
 Learner:
 - "Qweenwasabi"
-Team Name: 
+Team Name:
 - "angry-reedbuck"
 authors:
 - "tannerwelsh"
@@ -62,20 +62,21 @@ Indulge your curiousity and explore the questions that pique your interest.
 
 ## Specifications
 
-- [ ] Artifact is a GitHub repo.
-- [ ] 20 exercises are completed from the ["Learn Enough Command Line to be Dangerous"][hartl-command-line] book.
-  - [ ] Solution code for each exercise is included in its own bash file (`*.sh`).
-  - [ ] Solution code for exercises are stored in a `command-line/` directory of your artifact repo.
-  - [ ] Solution code for each exercise includes a comment with the prompt text for the exercise.
-- [ ] 20 activities are completed from the [Bash Scripting][ryans-tutorial-bash-scripting] tutorials.
-  - [ ] Solution code for each activity is included in its own bash file (`*.sh`). **Tip**: for the bash-scripting tutorials, check your solutions by executing your bash (.sh) files (type their name in the terminal), instead of writing code directly in the terminal.
-  - [ ] Solution code for activities are stored in a `bash-scripting/` directory of your artifact repo.
-  - [ ] Solution code for each activity includes a comment with the prompt text for the activity.
-- [ ] Cheat sheet of your favorite useful commands and a brief explanation of what they do is included in the artifact as a `cheat-sheet.md` file.
+- [X] Artifact is a GitHub repo.
+- [X] 20 exercises are completed from the ["Learn Enough Command Line to be Dangerous"][hartl-command-line] book.
+  - [X] Solution code for each exercise is included in its own bash file (`*.sh`).
+  - [X] Solution code for exercises are stored in a `command-line/` directory of your artifact repo.
+  - [X] Solution code for each exercise includes a comment with the prompt text for the exercise.
+- [X] 20 activities are completed from the [Bash Scripting][ryans-tutorial-bash-scripting] tutorials.
+     -combined some activities 12 files in totally
+  - [X] Solution code for each activity is included in its own bash file (`*.sh`). **Tip**: for the bash-scripting tutorials, check your solutions by executing your bash (.sh) files (type their name in the terminal), instead of writing code directly in the terminal.
+  - [X] Solution code for activities are stored in a `bash-scripting/` directory of your artifact repo.
+  - [X] Solution code for each activity includes a comment with the prompt text for the activity.
+- [X] Cheat sheet of your favorite useful commands and a brief explanation of what they do is included in the artifact as a `cheat-sheet.md` file.
 - [ ] All major features are added via pull requests with a clear description and concise commit messages.
 - [ ] Code uses a linter and there are no linting errors.
-- [ ] Variables, functions, files, etc. have appropriate and meaningful names.
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+- [X] Variables, functions, files, etc. have appropriate and meaningful names.
+- [X] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ### Stretch
 
